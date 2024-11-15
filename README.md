@@ -1,5 +1,7 @@
 # app
 
+![alt text](iPhone-12-PRO-MAX-localhost.png)
+
 A new Flutter project.
 
 ## Getting Started
